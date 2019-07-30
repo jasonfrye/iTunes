@@ -10,9 +10,6 @@
     ],
     "require": {
         "php": ">=5.4",
-        "illuminate/support": "5.*",
-        "illuminate/config": "5.*",
-        "illuminate/cache": "5.*",
         "vinelab/http": "1.2.*"
     },
     "require-dev": {
